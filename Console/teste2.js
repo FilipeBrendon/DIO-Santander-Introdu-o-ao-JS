@@ -8,8 +8,8 @@ function returnEvenValues(array){
             notEvenNums.push(array[i])
         }
     }
-    console.log(evenNums)
-    console.log(notEvenNums)
+    console.log(`${evenNums} numeros pares`)
+    console.log(`${notEvenNums} numeros impares`)
     
 }
 
